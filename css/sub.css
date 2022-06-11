@@ -1,0 +1,125 @@
+.mont-font {
+  font-family: "Montserrat", sans-serif;
+}
+
+.play-font {
+  font-family: "Playfair Display", serif;
+}
+
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 52px;
+}
+
+.col-blue {
+  color: #4447ab;
+}
+
+.lgt-blue {
+  color: #24279d;
+}
+
+.col-brown {
+  color: #333333;
+}
+
+.eac {
+  color: #eaecf3;
+}
+
+.lgt-brown {
+  color: #4a4649;
+}
+
+.how {
+  letter-spacing: 0.8px;
+  opacity: 0.7;
+}
+
+.welcome {
+  opacity: 1;
+  letter-spacing: 0.5px;
+  font-size: 25px;
+  margin-bottom: 80px;
+}
+
+.butt1 {
+  background: #24279d 0% 0% no-repeat padding-box;
+  box-shadow: 0px 5px 15px #00000017;
+  opacity: 1;
+  color: white;
+  padding: 19px 57px;
+  border-radius: 30px;
+}
+
+.box1 {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 0.5px solid #9a9a9a;
+  width: 260px;
+  height: 373px;
+}
+
+.box2 {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    width: 280px;
+    height: 408px;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-top: -18px;
+  }
+
+  .box2a {
+    background: #24279d 0% 0% no-repeat padding-box;
+    width: 280px;
+    height: 408px;
+    margin-top: -18px;
+  }
+
+.about {
+  text-align: center;
+  font-size: 18px;
+  padding-top: 32px;
+  margin-bottom: 60px;
+}
+
+.details {
+  text-align: center;
+  font-size: 14px;
+  padding-bottom: 73px;
+}
+
+.round {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  opacity: 1;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  margin-top: -40px;
+}
+
+.round2 {
+    background: #ff7d69 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    margin-top: -40px;
+  }
+
+.dol {
+    margin-bottom: 76px;
+    margin-top: -130px;
+    text-align: center;
+}
+
+.orange-butt {
+    background-color: #ff7d69;
+    box-shadow: 0px 5px 20px #00000029;
+    border-radius: 30px;
+    opacity: 1;
+    color: #ffffff;
+    font-size: 18px;
+    margin-top: 100px;
+  }

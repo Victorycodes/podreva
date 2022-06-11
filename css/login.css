@@ -1,0 +1,59 @@
+.mont-font {
+  font-family: "Montserrat", sans-serif;
+}
+
+.play-font {
+  font-family: "Playfair Display", serif;
+}
+
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 52px;
+}
+
+.col-blue {
+  color: #4447ab;
+}
+
+.col-brown {
+  color: #333333;
+}
+
+.how {
+  letter-spacing: 0.8px;
+  opacity: 0.7;
+}
+
+.welcome {
+  opacity: 1;
+  letter-spacing: 1.25px;
+  font-size: 25px;
+  margin-bottom: 33px;
+}
+
+.eac {
+  color: #eaecf3;
+}
+
+input {
+  width: 467px;
+  height: 60px;
+  border-radius: 10px;
+  border: 2px solid #eaecf3;
+  outline: transparent;
+}
+
+label {
+  font-size: 15px;
+}
+
+.login {
+  background-color: #ff7d69;
+  box-shadow: 0px 5px 20px #00000029;
+  border-radius: 30px;
+  opacity: 1;
+  padding: 20px 67px 18px 65px;
+  margin-top: 30px;
+  color: white;
+}

@@ -1,0 +1,43 @@
+.mont-font {
+  font-family: "Montserrat", sans-serif;
+}
+
+.play-font {
+  font-family: "Playfair Display", serif;
+}
+
+.col-blue {
+    color: #4447ab;
+  }
+  
+  .lgt-blue {
+    color: #24279d;
+  }
+
+  .col-brown {
+    color: #333333;
+  }
+  
+  .eac {
+    color: #eaecf3;
+  }
+  
+  .lgt-brown {
+    color: #4a4649;
+  }
+
+  header {
+      background-color: #24279d;
+      height: 86px;
+      padding-left: 100px;
+      padding-top: 31px;
+  }
+
+  .text {
+    font-size: 15px;
+  }
+
+  .white {
+    width: 120px;
+    height: 35px;
+  }
